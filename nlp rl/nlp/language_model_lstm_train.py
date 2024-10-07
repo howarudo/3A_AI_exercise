@@ -6,9 +6,9 @@ import sentence_data
 from sentence_data import EOS_ID
 from language_model_lstm import LanguageModelLSTM
 
-dataset = sentence_data.SentenceData("dataset/data_1000.txt")
+dataset = sentence_data.SentenceData("dataset/data_full.txt")
 
-model = LanguageModelLSTM(dataset.japanese_word_size())
+model = LanguageModelLSTM(dataset.english_word_size())
 
 loss_fn = torch.nn.CrossEntropyLoss()
 
@@ -19,7 +19,7 @@ for epoch in range(epoch_num):
     print("{0} / {1} epoch start.".format(epoch + 1, epoch_num))
 
     sum_loss = 0.0
-    for i, sentence in enumerate(dataset.japanese_sentences()):
+    for i, sentence in enumerate(dataset.english_sentences()):
         model.reset_state()
         optimizer.zero_grad()
         accum_loss = None

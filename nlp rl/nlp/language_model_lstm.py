@@ -1,6 +1,6 @@
 import torch
 import torch.nn as nn
-from torch import cuda      
+from torch import cuda
 
 # GPU上で計算を行う場合は，この変数を非Noneの整数、又は"cuda"にする
 gpu_id = None
@@ -30,4 +30,9 @@ class LanguageModelLSTM(nn.Module):
     def forward(self, word):
         if gpu_id is not None:
             word = word.to(self.device)
-        # ここを実装する
+        hi = self.W_x_hi(word)
+        if gpu_id is not None:
+            hi = hi.to(self.device)
+        self.hr = self.W_lstm(hi, self.hr)
+        y = self.W_hr_y(self.hr[0])
+        return y
