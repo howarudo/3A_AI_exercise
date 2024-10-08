@@ -6,7 +6,7 @@ from collections import OrderedDict
 
 class TableQAgent(abstract_agent.Agent):
     """Table-Q Agent
-    
+
     ハッシュテーブルを用いてQ学習を行うagent
     穴埋めコードです
 
@@ -34,7 +34,7 @@ class TableQAgent(abstract_agent.Agent):
         return self.select_action(obs)
 
     def act(self, obs):
-        return self.select_action(obs)
+        return self.select_action_test(obs)
 
     def stop_episode_and_train(self, obs, reward, done=False):
         self.train(obs, reward)
@@ -57,7 +57,7 @@ class TableQAgent(abstract_agent.Agent):
         if self.last_obs is not None:
             assert(self.last_action is not None)
             last_obs_key, obs_key = [self.observation_to_key(o) for o in [self.last_obs, obs]]
-            
+
             # 見たことないようなら辞書に追加
             if last_obs_key not in self.q_table:
                 self.q_table[last_obs_key] = [0.0 for act in range(self.action_num)]
@@ -71,8 +71,9 @@ class TableQAgent(abstract_agent.Agent):
                 #       self.q_table の実装がどのようになっているかに注意してください。
                 # ------------
                 # max_q = # here #
-                raise NotImplementedError()
+                # raise NotImplementedError()
                 # ------------
+                max_q = np.max(self.q_table[obs_key])
             else:
                 max_q = 0.0
 
@@ -84,8 +85,9 @@ class TableQAgent(abstract_agent.Agent):
             # です。ここで、pは学習率、gは割引率です。
             # ------------
             # self.q_table[# here #][# here #] = # here #
-            raise NotImplementedError()
+            # raise NotImplementedError()
             # ------------
+            self.q_table[last_obs_key][self.last_action] = self.q_table[last_obs_key][self.last_action] + self.learning_rate * (reward + self.discount_factor * max_q - self.q_table[last_obs_key][self.last_action])
 
         # 観測を保存
         self.last_obs = obs
@@ -95,6 +97,21 @@ class TableQAgent(abstract_agent.Agent):
         if obs_key in self.q_table:
             # 観測から行動を決める
             action = self.epsilon_greedy(obs_key)
+        else:
+            # Q値がまだ定まっていないのでランダムに動く
+            action = np.random.randint(self.action_num)
+        self.last_action = action
+        return action
+
+    def greedy(self, obs_key):
+        # Q値が最大の行動を返す
+        return np.argmax(self.q_table[obs_key])
+
+    def select_action_test(self, obs):
+        obs_key = self.observation_to_key(obs)
+        if obs_key in self.q_table:
+            # 観測から行動を決める
+            action = self.greedy(obs_key)
         else:
             # Q値がまだ定まっていないのでランダムに動く
             action = np.random.randint(self.action_num)
@@ -113,8 +130,9 @@ class TableQAgent(abstract_agent.Agent):
         # Hint: random_agent.py を参考にしてみましょう。
         # ------------
         # random_action = # here #
-        raise NotImplementedError()
+        # raise NotImplementedError()
         # ------------
+        random_action = np.random.randint(self.action_num)
 
         # exploitation (活用)
         # ---穴埋め---
@@ -122,8 +140,9 @@ class TableQAgent(abstract_agent.Agent):
         # Hint: np.argmax() を使うとよいでしょう。
         # ------------
         # max_q_action = # here #
-        raise NotImplementedError()
+        # raise NotImplementedError()
         # ------------
+        max_q_action = np.argmax(self.q_table[obs_key])
 
         # どっちか選択
         # ---穴埋め---
@@ -131,9 +150,9 @@ class TableQAgent(abstract_agent.Agent):
         # Hint: np.random.choice() を使うとよいでしょう。
         # ------------
         # action = # here #
-        raise NotImplementedError()
+        # raise NotImplementedError()
         # ------------
-
+        action = np.random.choice([random_action, max_q_action], p=[self.exploration_prob, 1 - self.exploration_prob])
         return action
 
     def q_table_to_str(self):

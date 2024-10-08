@@ -16,6 +16,7 @@ class RulebaseAgent(abstract_agent.Agent):
         self.observation_num = {key: val.n for key, val in env.observation_space.spaces.items()}
         self.action_num = env.action_space.n
 
+
     def act_and_train(self, obs, reward, done):
         self.train(obs, reward)
         action = self.act(obs)
@@ -40,8 +41,12 @@ class RulebaseAgent(abstract_agent.Agent):
         #     action =  # here #
         # else:
         #     action =  # here #
-        raise NotImplementedError()
+        # raise NotImplementedError()
         # ------------
+        if obs['y'] < 2:
+            action = 1
+        else:
+            action = 0
         return action
 
     def train(self, obs, reward):
