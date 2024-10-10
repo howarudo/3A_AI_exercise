@@ -1,0 +1,3006 @@
+/home/u01163/.cache/pypoetry/virtualenvs/3a-ai-exercise-WuIhiql3-py3.10/lib/python3.10/site-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+/home/u01163/.cache/pypoetry/virtualenvs/3a-ai-exercise-WuIhiql3-py3.10/lib/python3.10/site-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=VGG16_Weights.IMAGENET1K_V1`. You can also use `weights=VGG16_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+dataset size : 1500
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+0
+Linear(in_features=25088, out_features=4096, bias=True)
+dataset size : 1500

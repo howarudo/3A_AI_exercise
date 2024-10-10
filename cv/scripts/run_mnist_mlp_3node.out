@@ -1,0 +1,26 @@
+GPU: 0
+# unit: 3
+# Minibatch-size: 100
+# epoch: 20
+
+[epoch 1] loss: 1227.650
+[epoch 2] loss: 1076.700
+[epoch 3] loss: 948.457
+[epoch 4] loss: 863.751
+[epoch 5] loss: 789.453
+[epoch 6] loss: 719.944
+[epoch 7] loss: 662.457
+[epoch 8] loss: 618.111
+[epoch 9] loss: 585.750
+[epoch 10] loss: 562.231
+[epoch 11] loss: 544.278
+[epoch 12] loss: 529.820
+[epoch 13] loss: 517.823
+[epoch 14] loss: 507.417
+[epoch 15] loss: 498.502
+[epoch 16] loss: 490.928
+[epoch 17] loss: 484.142
+[epoch 18] loss: 478.186
+[epoch 19] loss: 472.868
+[epoch 20] loss: 468.162
+Finished Training
