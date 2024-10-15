@@ -80,6 +80,18 @@ python-versions = ">=3.6"
 requests = ">=2.22"
 
 [[package]]
+name = "dtw"
+version = "1.4.0"
+description = "Python DTW Module"
+category = "main"
+optional = false
+python-versions = "*"
+
+[package.dependencies]
+numpy = "*"
+scipy = "*"
+
+[[package]]
 name = "fonttools"
 version = "4.54.1"
 description = "Tools to manipulate font files"
@@ -413,7 +425,7 @@ zstd = ["zstandard (>=0.18.0)"]
 [metadata]
 lock-version = "1.1"
 python-versions = "~3.10"
-content-hash = "911798ede0786c97fb8a103f0bfb137ed5a50584fc6828942df6b6b147c0e5ad"
+content-hash = "0ef1d33a58781082cb2c84ba534fbf474d808e465db3dd8eed8e317063a4d481"
 
 [metadata.files]
 certifi = [
@@ -662,6 +674,9 @@ decorator = [
 dt = [
     {file = "dt-1.1.65-py3-none-any.whl", hash = "sha256:b40f9f549077e59ae1609a4f4f033b1bf593bcb832da40d08efaaaa231e8eeed"},
     {file = "dt-1.1.65.tar.gz", hash = "sha256:ff7fce6b9d5039b0bc1d20dc6d74e3fe3986f6a46a503ec0fcae7df15032ec49"},
+]
+dtw = [
+    {file = "dtw-1.4.0.tar.gz", hash = "sha256:6be2d561cbebede2550d877b32ea4b5c058dced6a846603d7881d214c29f88bc"},
 ]
 fonttools = [
     {file = "fonttools-4.54.1-cp310-cp310-macosx_10_9_universal2.whl", hash = "sha256:7ed7ee041ff7b34cc62f07545e55e1468808691dddfd315d51dd82a6b37ddef2"},
